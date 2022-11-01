@@ -96,7 +96,8 @@ header {
   font-size: 16px;
   color: #ffffff;
 }
-.header-left__link a:active {
+.header-left__link a:active,
+.header-left__link--active a {
   color: rgba(249, 128, 75, 1);
 }
 .header-right {
@@ -174,6 +175,7 @@ header {
 /* backStage part starts here */
 .backstage {
   position: relative;
+  margin-bottom: 180px;
 }
 
 .backstage__container {
@@ -230,4 +232,41 @@ header {
   line-height: 22px;
   color: #333b41;
   max-width: 465px;
+  margin-bottom: 0;
+}
+
+/* style for animals card section starts here  */
+.animal-cards__container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 27px;
+}
+.card {
+  max-width: 370px;
+  border: 1px solid rgba(250, 111, 50, 1);
+  border-radius: 5px;
+}
+
+.bottom-animate {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 16px;
+  padding-bottom: 14px;
+}
+.left-side-p {
+  margin-top: 8px;
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.left-side-p2{
+  margin: 0;
+}
+.right-side__pic {
+  margin-top: 10px;
+  margin-right: 12px;
 }
