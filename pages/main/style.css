@@ -162,10 +162,72 @@ header {
 }
 .ellipse__btn:hover {
   background: #e47209;
+  cursor: pointer;
 }
 .ellipse__btn:active {
   background: #4b9200;
 }
 .ellipse__btn:disabled {
   background: #767474;
+}
+
+/* backStage part starts here */
+.backstage {
+  position: relative;
+}
+
+.backstage__container {
+  display: flex;
+  margin-top: 140px;
+}
+
+.backstage__flower-pic {
+  position: absolute;
+  max-width: 609px;
+  top: 12px;
+  right: 0;
+  z-index: -1;
+}
+
+.backstage__heading {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  color: #333b41;
+  max-width: 465px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.backstage__right {
+  margin-left: 87px;
+}
+
+.backstage__p1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #333b41;
+  max-width: 465px;
+  margin-bottom: 54px;
+}
+
+.backstage__h2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  color: #333b41;
+  margin-bottom: 34px;
+}
+
+.backstage__p2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #333b41;
+  max-width: 465px;
 }
