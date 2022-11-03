@@ -58,7 +58,6 @@ header {
   margin-top: 14px;
   border: 1px solid #ffffff;
   border-radius: 2px;
-  font-style: normal;
   font-weight: 400;
   font-size: 19.0145px;
   line-height: 120%;
@@ -91,7 +90,6 @@ header {
   margin-top: 29px;
   margin-right: 58px;
   text-decoration: none;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   color: #ffffff;
@@ -101,7 +99,6 @@ header {
   color: rgba(249, 128, 75, 1);
 }
 .header-right {
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 22px;
@@ -132,7 +129,6 @@ header {
   right: 0;
   width: 500.31px;
   font-family: "Roboto";
-  font-style: normal;
   font-weight: 700;
   font-size: 106.496px;
   line-height: 78%;
@@ -153,7 +149,6 @@ header {
   background: linear-gradient(113.96deg, #f9804b 1.49%, #fe9013 101.44%);
   border-radius: 25px;
   border: none;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 22px;
@@ -192,7 +187,6 @@ header {
 }
 
 .backstage__heading {
-  font-style: normal;
   font-weight: 400;
   font-size: 48px;
   line-height: 58px;
@@ -207,7 +201,6 @@ header {
 }
 
 .backstage__p1 {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 21px;
@@ -217,7 +210,6 @@ header {
 }
 
 .backstage__h2 {
-  font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 29px;
@@ -226,7 +218,6 @@ header {
 }
 
 .backstage__p2 {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 22px;
@@ -367,7 +358,6 @@ header {
 
 .profile-text h5 {
   margin: 0;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   text-transform: uppercase;
@@ -375,7 +365,6 @@ header {
 }
 
 .profile-text p {
-  font-style: normal;
   font-weight: 300;
   font-size: 15px;
   padding-left: 5px;
@@ -440,7 +429,6 @@ header {
 }
 
 .feed-text h4 {
-  font-style: normal;
   font-weight: 400;
   font-size: 48px;
   line-height: 120%;
@@ -450,7 +438,6 @@ header {
 }
 
 .larger-text-feed {
-  font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 120%;
@@ -458,7 +445,6 @@ header {
 }
 
 .bold-text-feed {
-  font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 130%;
@@ -484,7 +470,6 @@ header {
 }
 
 .feed-text h3 {
-  font-style: normal;
   font-weight: 400;
   font-size: 36px;
   line-height: 130%;
@@ -524,7 +509,6 @@ header {
 }
 
 .payment-card-text p {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
@@ -562,7 +546,6 @@ header {
 }
 
 .testimonials-block h3 {
-  font-style: normal;
   font-weight: 400;
   font-size: 36px;
   line-height: 130%;
@@ -625,7 +608,6 @@ header {
 
 .profile-log h5 {
   margin: 0;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 120%;
@@ -633,7 +615,6 @@ header {
 
 .profile-log h6 {
   margin: 0;
-  font-style: normal;
   font-weight: 300;
   font-size: 15px;
   line-height: 120%;
@@ -648,7 +629,6 @@ header {
 }
 
 .testimonial-card-text p {
-  font-style: normal;
   font-weight: 300;
   font-size: 15px;
   line-height: 120%;
@@ -707,7 +687,6 @@ footer {
 }
 
 .social-content h6 {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
@@ -754,7 +733,6 @@ footer {
 }
 .navbar-footer ul li a {
   margin: 5px;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
@@ -774,7 +752,6 @@ footer {
 
 label {
   display: block;
-  font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 120%;
@@ -809,7 +786,6 @@ input[type="email"]:valid {
 }
 
 input::placeholder {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
@@ -823,7 +799,6 @@ input[type="submit"] {
   border: 1px solid #d31414;
   color: #d31414;
   display: inline;
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
@@ -841,7 +816,6 @@ button {
   height: 54px;
   color: #fff;
   background: linear-gradient(113.96deg, #f9804b 1.49%, #fe9013 101.44%);
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 140%;
@@ -865,7 +839,6 @@ button:active {
 }
 
 .design-by h6 {
-  font-style: normal;
   font-weight: 100;
   font-size: 16px;
   line-height: 130%;
